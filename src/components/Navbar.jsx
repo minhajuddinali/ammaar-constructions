@@ -35,7 +35,7 @@ const Navbar = () => {
                     <img
                         src={logo}
                         alt="Ammaar Constructions"
-                        className="h-12 md:h-14 w-auto"
+                        className="h-22 md:h-20 w-auto"
                     />
                 </NavLink>
 
